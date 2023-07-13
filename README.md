@@ -21,7 +21,7 @@ Welcome, fellow guardian of AI, to the realm of AI Security Resources! Delve int
 
 - [Threats to AI Safety and Security](https://arxiv.org/abs/1611.07975) - A scholarly work by Roman V. Yampolskiy
 - [Generative Adversarial Networks: An Overview](https://arxiv.org/abs/1710.07035) - Authored by the illustrious Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, et al.
-
+- [Towards Confidential Computing: A Secure Cloud Architecture for Big Data Analytics and AI](https://arxiv.org/pdf/2305.17761.pdf) - Authored by Naweiluo Zhou, Florent Dufour, Vinzent Bode, Peter Zinterhof, Nicolay J Hammer, Dieter Kranzlmuller
 ## Online Courses
 
 - [AI and Machine Learning Security](https://www.coursera.org/learn/ai-machine-learning-security) - A wondrous course offered by the University of Colorado Boulder on Coursera
